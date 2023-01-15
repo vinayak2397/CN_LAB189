@@ -1,4 +1,3 @@
-# CN_LAB189
 #include <bits/stdc++.h>
 using namespace std;
 #define MAX 10
